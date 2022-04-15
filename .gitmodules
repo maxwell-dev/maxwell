@@ -1,0 +1,33 @@
+[submodule "maxwell-frontend-rust"]
+	path = maxwell-frontend-rust
+	url = https://github.com/maxwell-dev/maxwell-frontend-rust.git
+[submodule "maxwell-client-rust"]
+	path = maxwell-client-rust
+	url = https://github.com/maxwell-dev/maxwell-client-rust.git
+[submodule "maxwell-protocol-rust"]
+	path = maxwell-protocol-rust
+	url = https://github.com/maxwell-dev/maxwell-protocol-rust.git
+[submodule "maxwell-utils-rust"]
+	path = maxwell-utils-rust
+	url = https://github.com/maxwell-dev/maxwell-utils-rust.git
+[submodule "maxwell-client-js"]
+	path = maxwell-client-js
+	url = https://github.com/maxwell-dev/maxwell-client-js.git
+[submodule "maxwell-protocol-js"]
+	path = maxwell-protocol-js
+	url = https://github.com/maxwell-dev/maxwell-protocol-js.git
+[submodule "maxwell-client-dart"]
+	path = maxwell-client-dart
+	url = https://github.com/maxwell-dev/maxwell-client-dart.git
+[submodule "maxwell-protocol-dart"]
+	path = maxwell-protocol-dart
+	url = https://github.com/maxwell-dev/maxwell-protocol-dart.git
+[submodule "maxwell-client-python"]
+	path = maxwell-client-python
+	url = https://github.com/maxwell-dev/maxwell-client-python.git
+[submodule "maxwell-protocol-python"]
+	path = maxwell-protocol-python
+	url = https://github.com/maxwell-dev/maxwell-protocol-python.git
+[submodule "maxwell-protocol"]
+	path = maxwell-protocol
+	url = https://github.com/maxwell-dev/maxwell-protocol.git
