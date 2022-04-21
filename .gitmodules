@@ -31,3 +31,9 @@
 [submodule "maxwell-protocol"]
 	path = maxwell-protocol
 	url = https://github.com/maxwell-dev/maxwell-protocol.git
+[submodule "maxwell-backend-rust"]
+	path = maxwell-backend-rust
+	url = https://github.com/maxwell-dev/maxwell-backend-rust.git
+[submodule "maxwell-master-rust"]
+	path = maxwell-master-rust
+	url = https://github.com/maxwell-dev/maxwell-master-rust.git
