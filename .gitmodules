@@ -1,0 +1,68 @@
+[submodule "maxwell-master-rust"]
+	path = maxwell-master-rust
+	url = git@github.com:maxwell-dev/maxwell-master-rust.git
+	branch = main
+[submodule "maxwell-backend-rust"]
+	path = maxwell-backend-rust
+	url = git@github.com:maxwell-dev/maxwell-backend-rust.git
+	branch = main
+[submodule "maxwell-frontend-rust"]
+	path = maxwell-frontend-rust
+	url = git@github.com:maxwell-dev/maxwell-frontend-rust.git
+	branch = main
+
+[submodule "maxwell-service-python"]
+	path = maxwell-service-python
+	url = git@github.com:maxwell-dev/maxwell-service-python.git
+	branch = main
+[submodule "maxwell-service-js"]
+	path = maxwell-service-js
+	url = git@github.com:maxwell-dev/maxwell-service-js.git
+	branch = main
+
+[submodule "maxwell-client-js"]
+	path = maxwell-client-js
+	url = git@github.com:maxwell-dev/maxwell-client-js.git
+	branch = main
+[submodule "maxwell-client-dart"]
+	path = maxwell-client-dart
+	url = git@github.com:maxwell-dev/maxwell-client-dart.git
+	branch = main
+[submodule "maxwell-client-python"]
+	path = maxwell-client-python
+	url = git@github.com:maxwell-dev/maxwell-client-python.git
+	branch = main
+
+[submodule "maxwell-protocol-js"]
+	path = maxwell-protocol-js
+	url = git@github.com:maxwell-dev/maxwell-protocol-js.git
+	branch = main
+[submodule "maxwell-protocol-python"]
+	path = maxwell-protocol-python
+	url = git@github.com:maxwell-dev/maxwell-protocol-python.git
+	branch = main
+[submodule "maxwell-protocol-rust"]
+	path = maxwell-protocol-rust
+	url = git@github.com:maxwell-dev/maxwell-protocol-rust.git
+	branch = main
+[submodule "maxwell-protocol-dart"]
+	path = maxwell-protocol-dart
+	url = git@github.com:maxwell-dev/maxwell-protocol-dart.git
+	branch = main
+[submodule "maxwell-protocol"]
+	path = maxwell-protocol
+	url = git@github.com:maxwell-dev/maxwell-protocol.git
+	branch = main
+
+[submodule "maxwell-utils-rust"]
+	path = maxwell-utils-rust
+	url = git@github.com:maxwell-dev/maxwell-utils-rust.git
+	branch = main
+[submodule "maxwell-utils-js"]
+	path = maxwell-utils-js
+	url = git@github.com:maxwell-dev/maxwell-utils-js.git
+	branch = main
+[submodule "maxwell-utils-python"]
+	path = maxwell-utils-python
+	url = git@github.com:maxwell-dev/maxwell-utils-python.git
+	branch = main
